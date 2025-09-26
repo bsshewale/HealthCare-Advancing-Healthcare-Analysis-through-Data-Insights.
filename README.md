@@ -50,7 +50,7 @@ Average Stay: 1 day (short-term care)
 
 ## Dashboard Preview
 
-![Hospital Dashboard](images/dashboard.png)
+![Hospital Dashboard](https://github.com/bsshewale/HealthCare-Advancing-Healthcare-Analysis-through-Data-Insights./blob/main/Powerbi%20Dashboard.jpg)
 
 ### Tools & Techniques
 
